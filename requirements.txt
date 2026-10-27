@@ -1,0 +1,4 @@
+
+# Student Study Planner
+# No external packages are required.
+# Uses Python's built-in functions only.
